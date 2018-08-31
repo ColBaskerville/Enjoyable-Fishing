@@ -1,0 +1,12 @@
+Hello! Thanks for downloading the Loot Table!
+
+Follow these steps, to add the loot table to your world:
+
+1. Start Minecraft 1.9 or later
+2. Select the world, you want to add the world to
+3. Click on "Edit"
+4. Click on "Open Folder".
+5. Open the "data"-folder in the folder, that just opened
+6. Put the "loot_tables" in the data folder
+
+That's it! Now Fishing should be advanced in your world!
